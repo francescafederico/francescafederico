@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @francescafederico, PhD student at the School of Sustainability, ASU
 - 👀 I’m interested in social dilemmas, theory of cooperation, behavioral economics
-- 🌱 I’m currently learning agent base modelling
+- 🌱 I’m currently learning agent based modelling
 - 📫 How to reach me: ffederi2@asu.edu
 
 <!---
